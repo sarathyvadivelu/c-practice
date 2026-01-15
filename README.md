@@ -1,4 +1,4 @@
-# C Practice Programs
+# c practice programs
 
 Learning C for kernel development
 
